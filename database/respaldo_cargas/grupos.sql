@@ -1,0 +1,17 @@
+INSERT INTO `grupos` VALUES (1, 'Administrativo', '0000-0-0 00:00:00', '0000-0-0 00:00:00');
+INSERT INTO `grupos` VALUES (2, 'Financiero', '0000-0-0 00:00:00', '0000-0-0 00:00:00');
+INSERT INTO `grupos` VALUES (3, 'Tecnologias de la Informacion', '0000-0-0 00:00:00', '0000-0-0 00:00:00');
+INSERT INTO `grupos` VALUES (4, 'Planificacion', '0000-0-0 00:00:00', '0000-0-0 00:00:00');
+INSERT INTO `grupos` VALUES (5, 'Fomento productivo', '0000-0-0 00:00:00', '0000-0-0 00:00:00');
+INSERT INTO `grupos` VALUES (6, 'CooperacionInt', '0000-0-0 00:00:00', '0000-0-0 00:00:00');
+INSERT INTO `grupos` VALUES (7, 'Rrhh', '0000-0-0 00:00:00', '0000-0-0 00:00:00');
+INSERT INTO `grupos` VALUES (8, 'Rrhh', '0000-0-0 00:00:00', '0000-0-0 00:00:00');
+INSERT INTO `grupos` VALUES (9, 'Financiero', '0000-0-0 00:00:00', '0000-0-0 00:00:00');
+INSERT INTO `grupos` VALUES (10, 'Comunicacion', '0000-0-0 00:00:00', '0000-0-0 00:00:00');
+INSERT INTO `grupos` VALUES (11, 'Juridico', '0000-0-0 00:00:00', '0000-0-0 00:00:00');
+INSERT INTO `grupos` VALUES (12, 'Gestion Social', '0000-0-0 00:00:00', '0000-0-0 00:00:00');
+INSERT INTO `grupos` VALUES (14, 'Gober. y Descent.', '0000-0-0 00:00:00', '0000-0-0 00:00:00');
+INSERT INTO `grupos` VALUES (15, 'Vialidad', '0000-0-0 00:00:00', '0000-0-0 00:00:00');
+INSERT INTO `grupos` VALUES (16, 'Dirección Ejecutiva', '0000-0-0 00:00:00', '0000-0-0 00:00:00');
+INSERT INTO `grupos` VALUES (17, 'Subdirección', '0000-0-0 00:00:00', '0000-0-0 00:00:00');
+INSERT INTO `grupos` VALUES (18, 'Ambiente', '0000-0-0 00:00:00', '0000-0-0 00:00:00');

@@ -1,0 +1,21 @@
+
+td {
+    font-family: Helvetica;
+    font-size: .6em;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    margin: 0;
+    padding-left: 2;
+    padding-right: 2;
+    padding-top: 0;
+    padding-bottom: 0;
+    line-height: 1.1;
+}
+small {
+    font-size: .5em;
+}
+p {
+	padding: 0;
+	margin: 3;
+}
